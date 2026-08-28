@@ -1,8 +1,9 @@
 package com.gft.prices.application.usecase;
 
 import com.gft.prices.domain.exception.PriceNotFoundException;
-import com.gft.prices.domain.repository.PriceRepository;
 import com.gft.prices.domain.model.Price;
+import com.gft.prices.domain.repository.PriceRepository;
+import com.gft.prices.domain.usecase.GetApplicablePriceUseCase;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

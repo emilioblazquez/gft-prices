@@ -1,7 +1,7 @@
 package com.gft.prices.infrastructure.persistence.adapter;
 
-import com.gft.prices.domain.repository.PriceRepository;
 import com.gft.prices.domain.model.Price;
+import com.gft.prices.domain.repository.PriceRepository;
 import com.gft.prices.infrastructure.persistence.mapper.PriceMapper;
 import com.gft.prices.infrastructure.persistence.repository.PriceJpaRepository;
 import lombok.RequiredArgsConstructor;

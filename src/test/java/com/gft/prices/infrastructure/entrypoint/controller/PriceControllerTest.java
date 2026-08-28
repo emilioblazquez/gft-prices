@@ -1,7 +1,7 @@
 package com.gft.prices.infrastructure.entrypoint.controller;
 
-import com.gft.prices.application.usecase.GetApplicablePriceUseCase;
 import com.gft.prices.domain.model.Price;
+import com.gft.prices.domain.usecase.GetApplicablePriceUseCase;
 import com.gft.prices.generated.model.PriceResponse;
 import com.gft.prices.infrastructure.entrypoint.mapper.PriceDtoMapper;
 import org.junit.jupiter.api.Test;

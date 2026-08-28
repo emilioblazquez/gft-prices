@@ -1,8 +1,8 @@
 package com.gft.prices.application.usecase;
 
 import com.gft.prices.domain.exception.PriceNotFoundException;
-import com.gft.prices.domain.repository.PriceRepository;
 import com.gft.prices.domain.model.Price;
+import com.gft.prices.domain.repository.PriceRepository;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;

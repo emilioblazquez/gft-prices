@@ -1,4 +1,4 @@
-package com.gft.prices.application.usecase;
+package com.gft.prices.domain.usecase;
 
 import com.gft.prices.domain.model.Price;
 
